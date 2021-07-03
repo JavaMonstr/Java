@@ -6,7 +6,7 @@ class HelloWorld {
 		System.out.println("Hello, World!3"); 
 		System.out.println("Hello, World!4");
 		System.out.println("Hello, World!5"); 		
-=======
+=======1
 >>>>>>> parent of 4db743a (3)
 	    }
 }
